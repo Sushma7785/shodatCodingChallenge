@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">shodatProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="album_no">Album Number</string>
+    <string name="title">Title</string>
+    <string name="getImages">Get Images</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+
+</resources>
